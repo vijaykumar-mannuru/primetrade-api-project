@@ -154,4 +154,4 @@ After registering via `/api/v1/auth/register`, use:
 
 ## 👤 Author
 
-Built for PrimeTrade.ai Backend Intern Assignment.
+MANNURU VIJAY KUMAR
